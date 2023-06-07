@@ -1,0 +1,18 @@
+.classBG {
+    background-color: lightpink;
+    font-size: 20px;
+}
+
+#num1 {
+    color: blue;
+    font-size: 60px;
+}
+
+.classBG.para2 {
+    font-size: 30px;
+}
+#num2 {
+    background-color: greenyellow;
+    font-size: 40px;
+    font-weight: bold;
+}
